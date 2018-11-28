@@ -3,8 +3,8 @@ build
 app/build
 app/*.iml
 .gradle
+.gradle/
 .iml
-/.idea/workspace.xml
 /.idea/libraries
 /local.properties
 /.idea
@@ -18,3 +18,4 @@ noisedict.md5
 sendump.md5
 transition_matrices.md5
 variances.md5
+.idea/workspace.xml
