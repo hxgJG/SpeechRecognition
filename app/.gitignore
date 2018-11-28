@@ -1,1 +1,17 @@
 /build
+build
+app/build
+app/*.iml
+.gradle
+.iml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+cmudict-en-us.dict.md5
+feat.params.md5
+mdef.md5
+means.md5
+noisedict.md5
+sendump.md5
+transition_matrices.md5
+variances.md5
