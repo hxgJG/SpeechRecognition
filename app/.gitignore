@@ -4,7 +4,10 @@ app/build
 app/*.iml
 .gradle
 .iml
+/.idea/workspace.xml
+/.idea/libraries
 /local.properties
+/.idea
 /.idea/workspace.xml
 /.idea/libraries
 cmudict-en-us.dict.md5
